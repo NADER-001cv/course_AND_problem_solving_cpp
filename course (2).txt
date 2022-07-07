@@ -1,0 +1,51 @@
+int Z = 3 ;
+n7b nzawed  3la  Z  w tet55azeenn  fy Z
+increment  Z++
+
+decrement  Z--
+
+postfix z--
+
+prefix z++
+
+
+############# alawlouyaattt  fil  3maliatt 
+
+ 2  + 5 * 2  -1        = ??????
+
+al9aaeda loula  
+1-  () 
+2 -  *  /  %  2  + 5 * 2  =12 
+3 -  +  -  
+4 = 
+
+###############  function ##########  
+
+void  mamnou3 tekteb return 
+
+void print()
+{
+
+}
+
+
+lama  a3mil  5%3   
+dyyyyyyma result  a9al  min 3
+
+
+
+recursion 
+
+
+function namefunc()
+{
+
+if()
+{
+    base case
+}else 
+{
+       procuder of repeat namefunc()
+
+}
+

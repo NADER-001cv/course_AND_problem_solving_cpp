@@ -1,0 +1,136 @@
+exe
+cpp
+dsw fat7 projet a5er mara wseltelou
+
+#include iostream   wadhyftou kifech end5el elmod5alett wil mo5ragett
+
+input output 
+
+int  main()  edala  alr2yyssia  fil parnamig 
+
+inserion <<  
+
+el7aga  ely 7achty bha  tatl3 kima hia  
+en7otha ft " "  
+endl  abdee  sater ejdyyd 
+
+
+el function main()  
+elmo5ragett  integer 
+
+ey  dala  fehaa  mo5ragett  lazem etr33 
+
+return 
+
+\n  return new line 
+
+
+variables  
+integer  
+1 method 
+int  a ;
+a = 10 ;
+
+2 method from user 
+man3refech el9yyma  ly2anou eluser houwa  lyd5elha 
+int a ;
+cin>> a
+
+
+3 method 
+int a ; 
+a = b + c ;
+nateg  3la  3malia 
+
+ ##########################  setw  ##########
+international@mesrs.state.tn
+https://docs.google.com/forms
+/u/0/d/e/1FAIpQLSe1hwBiOehRh6QPDBkFu7YgFIUqfXil-
+tZFo1cvmMsVG2ANYQ/formResponse
+
+
+
+for loops   whiel  loops  do .... while loops
+>  <  >=   <=   ==   !=
+presenter vous 
+
+je suis nader chargui  deveveloper back end avec 1  ans demi 
+
+ma derniere experience était chez  SASTEC GROUP 
+J4AI FAIS 
+integration  template  dashboard admin
+j'ai  fais un sytem authentificatio 
+register login  forget password et reset password 
+send email by smtp using mailgun 
+crud  
+using trait 
+using liveware 
+mULTI AUTH 
+RELATION SHIP BETWEEN LES TABLE 
+FAIS DATA FAKER
+ 
+ALL  LES TASH  
+CERTIFICATION 
+J'ai  fais 2  certifica
+la 1 er  chez  gomycode full stack js 
+la  2  eme chez gomycode 
+
+
+je  suis motiver   je souhaite integrer  votre sosiete 
+
+
+q 2 
+ je suis interse  par votre sosite 
+je souhaite 
+
+je souhaite contribuer à la croissance de votre entreprise
+
+q 3 wa3lech enta 
+
+je suis quelqu’un motivé et
+ passionné par la nouvelle technologie,
+
+ et je voudrai faire des certifications prochainement
+ pour contribuer à l'évolution de votre société
+
+
+Mon dernier employeur décide de diminuer le nombre 
+des développeurs suite à diminution des projets
+
+
+
+
+
+
+
+https://test.mtlogics.xyz/product/pos/register
+
+
+
+// variable 
+
+
+integral type  --------> int && char 
+floating type  --------> float && double 
+boolean  type  --------> true && false 
+string  type  ---------> "i\'m nader " 
+void   type   --------->  empty 
+wide charchter -------->  unicode 
+
+
+derived  variable 
+
+array 
+function 
+pointer 
+reference 
+
+
+
+user defined 
+
+class 
+union
+enum 
+struct 
+type def 
